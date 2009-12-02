@@ -1,0 +1,15 @@
+## Interface: 30200
+
+## Title: ErrOff
+## Notes: Simple error message blocker for macros
+## Author: Tekkub Stoutwrithe
+## Version: Alpha
+## X-Website: http://tekkub.net/
+## X-Email: tekkub-wow@googlegroups.com
+## X-Category: Misc
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+## X-LoadOn-Slash: /erroff
+
+erroff.lua
