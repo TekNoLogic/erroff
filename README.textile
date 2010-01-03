@@ -1,0 +1,7 @@
+Erroff is a simple addon designed to selectivly block "That spell isn't ready yet" messages from macros.  To use just add @/erroff@ before the ability you want to supress errors for in your macro.
+
+h2. Links
+
+<b>Visit "my site":http://tekkub.net/ for more great addons<br>
+Please report all bugs and feature requests to my "Github tracker":http://github.com/tekkub/Erroff/issues<br>
+Please direct all feedback and questions to my "Google Groups":http://groups-beta.google.com/group/tekkub-wow mailinglist.</b>
